@@ -1,13 +1,13 @@
 {
-  "name": "onlineapp",
-  "version": "1.0.0",
-  "description": "this is simple web app ",
+  "name": "My Online App",
+  "version": "1.0.1",
+  "description": "This is my simple web app ",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "author": "Ravi Tambade",
+  "author": "Golu",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1"
